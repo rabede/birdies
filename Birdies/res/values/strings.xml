@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Birdies</string>
+    <string name="action_settings">Settings</string>
+    <string name="pict_desc">Bird\'s picture</string>
+    <string name="blackbird">The Common Blackbird (Turdus merula) is a species of true thrush. It is also called Eurasian Blackbird (especially in North America, to distinguish it from the unrelated New World blackbirds),[2] or simply Blackbird, where this does not lead to confusion with a similar-looking local species. It breeds in Europe, Asia, and North Africa, and has been introduced to Australia (where it is considered a pest) and New Zealand. It has a number of subspecies across its large range; a few of the Asian subspecies are sometimes considered to be full species. Depending on latitude, the Common Blackbird may be resident, partially migratory or fully migratory.\n
+
+The male of the nominate subspecies, which is found throughout most of Europe, is all black except for a yellow eye-ring and bill and has a rich melodious song; the adult female and juvenile have mainly dark brown plumage. This species breeds in woods and gardens, building a neat, mud-lined, cup-shaped nest. It is omnivorous, eating a wide range of insects, earthworms, berries, and fruits.\n
+
+Both sexes are territorial on the breeding grounds, with distinctive threat displays, but are more gregarious during migration and in wintering areas. Pairs will stay in their territory throughout the year where the climate is sufficiently temperate. This common and conspicuous species has given rise to a number of literary and cultural references, frequently related to its song.</string>
+    <string name="robin">The European Robin (Erithacus rubecula), most commonly known in Anglophone Europe simply as the Robin, is a small insectivorous passerine bird that was formerly classed as a member of the thrush family (Turdidae), but is now considered to be a chat. Around 12.5–14.0 cm (5.0–5.5 in) in length, the male and female are similar in colouration, with an orange breast and face lined with grey, brown upperparts and a whitish belly. It is found across Europe, east to Western Siberia and south to North Africa; it is sedentary in most of its range except the far north.
+
+The term Robin is also applied to some birds in other families with red or orange breasts. These include the American Robin (Turdus migratorius), which is a thrush, and the Australian red robins of the genus Petroica, members of a family whose relationships are unclear.</string>
+    <string name="blue_tit">The Eurasian Blue Tit (Cyanistes caeruleus[2] or Parus caeruleus[3]) is a small passerine bird in the tit family Paridae. The bird is easily recognisable by its blue and yellow plumage, but various authorities dispute their scientific classification.\n
+
+Eurasian Blue Tits, usually resident and non-migratory birds, are widespread and a common resident breeder throughout temperate and subarctic Europe and western Asia in deciduous or mixed woodlands with a high proportion of oak. They usually nest in tree holes, although they easily adapt to nest boxes where necessary. Their main rival for nests and in the search for food is the much larger Great Tit.\n
+
+The Eurasian Blue Tit prefers insects and spiders for their diet. Outside the breeding season, they also eat seeds and other vegetable-based foods. The birds are famed for their skill, as they can cling to the outermost branches and hang upside down when looking for food.</string>
+    <string name="great_tit">The Great Tit (Parus major) is a passerine bird in the tit family Paridae. It is a widespread and common species throughout Europe, the Middle East, Central and Northern Asia, and parts of North Africa in any sort of woodland. It is generally resident, and most Great Tits do not migrate except in extremely harsh winters. Until 2005 this species was lumped with numerous other subspecies. DNA studies have shown these other subspecies to be distinctive from the Great Tit and these have now been separated as two separate species, the Cinereous Tit of southern Asia, and the Japanese Tit of East Asia. The Great Tit remains the most widespread species in the genus Parus.\n
+
+The Great Tit is a distinctive bird, with a black head and neck, prominent white cheeks, olive upperparts and yellow underparts, with some variation amongst the numerous subspecies. It is predominantly insectivorous in the summer, but will consume a wider range of food items in the winter months, including small hibernating bats.[2] Like all tits it is a cavity nester, usually nesting in a hole in a tree. The female lays around 12 eggs and incubates them alone, although both parents raise the chicks. In most years the pair will raise two broods. The nests may be raided by woodpeckers, squirrels and weasels and infested with fleas, and adults may be hunted by Sparrowhawks. The Great Tit has adapted well to human changes in the environment and is a common and familiar bird in urban parks and gardens. The Great Tit is also an important study species in ornithology.</string>
+    <string name="nightingale">The Common Nightingale or simply Nightingale (Luscinia megarhynchos), also known as Rufous Nightingale, is a small passerine bird that was formerly classed as a member of the thrush family Turdidae, but is now more generally considered to be an Old World flycatcher, Muscicapidae. It belongs to a group of more terrestrial species, often called chats.</string>
+
+    <string-array name="birds">
+        <item name="blackbird">blackbird</item>
+        <item name="robin">robin</item>
+        <item name="blue_tit">blue_tit</item>
+        <item name="great_tit">great_tit</item>
+        <item name="nightingale">nightingale</item>
+    </string-array>
+
+</resources>
